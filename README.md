@@ -1,4 +1,4 @@
-# belly_button_micro_biodiversity-Dashboard
+# Belly Button Microbiodiversity Dashboard
 interactive web application
 
 
@@ -14,6 +14,6 @@ An interactive dashboard of belly-button microbes found on a voluntered sample o
 * Javascript
 * Heroku
 
-### [Deployed-link
+### Deployed-link
 
 [Deployed-link] (https://belly-button-microbioapp.herokuapp.com/)
